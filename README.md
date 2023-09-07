@@ -21,3 +21,4 @@ AI를 학습시켜 감정에 따른 노래를 추천하게 만들면 어떨까? 
 
 ## Project WBS
 ![작업분할구조도](https://github.com/minnnnnn9/music_recommend/assets/84128787/344a10d8-efd3-4be3-aeb7-9fa4bb95926e)
+<img src="/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG"  width="700" height="500">
