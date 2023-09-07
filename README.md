@@ -20,4 +20,4 @@ AI를 학습시켜 감정에 따른 노래를 추천하게 만들면 어떨까? 
 2. 스트레스 해소나 기분 전환을 위해 음악을 활용하는 사용자들에게 긍정적인 영향을 미칠 것이다.
 
 ## Project WBS
-<img src="https://github.com/minnnnnn9/music_recommend/assets/84128787/344a10d8-efd3-4be3-aeb7-9fa4bb95926e"  width="700" height="500">
+<img src="https://github.com/minnnnnn9/music_recommend/assets/84128787/344a10d8-efd3-4be3-aeb7-9fa4bb95926e"  width="50%" height="30%">
